@@ -3,8 +3,7 @@
 </a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/misteranmol?label=Follow)](https://twitter.com/intent/follow?screen_name=misteranmol)
-[![Linkedin: anmol](https://img.shields.io/badge/-anmol-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://in.linkedin.com/in/vedant-vaidya-714503257)(https://in.linkedin.com/in/vedant-vaidya-714503257))
+[![Linkedin: Vedant](https://img.shields.io/badge/-anmol-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://in.linkedin.com/in/vedant-vaidya-714503257)
 ![GitHub followers](https://img.shields.io/github/followers/vedant-vaidya-77?label=Follow&style=social)
 
 ### 📫 Like to meet me?
@@ -16,9 +15,9 @@ Pick a slot if you'd like to meet me and chat about anything you are passionate 
 👇 Hit in your console or terminal to connect with me.
 
 ```bash
-npx anmol
+npx vv7769
 ```
-**👆 This command line tool can be found at [npx anmol](https://github.com/anmol098/npx_card)**
+**👆 This command line tool can be found at [npx vedant7769](https://github.com/vedant-vaidya-77/npx_card)**
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
