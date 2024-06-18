@@ -3,7 +3,7 @@
 </a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
-[![Linkedin: Vedant](https://img.shields.io/badge/-anmol-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://in.linkedin.com/in/vedant-vaidya-714503257)
+[![Linkedin: Vedant](https://img.shields.io/badge/-vedant-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://in.linkedin.com/in/vedant-vaidya-714503257)
 ![GitHub followers](https://img.shields.io/github/followers/vedant-vaidya-77?label=Follow&style=social)
 
 ### 📫 Like to meet me?
