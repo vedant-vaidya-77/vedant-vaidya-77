@@ -24,7 +24,7 @@ npx vv7769
 ```javascript
 const vedant = {
     pronouns: "He" | "Him",
-    code: ["Javascript", "Python", "Java", "PHP"],
+    code: ["C++", "Javascript", "Python", "PHP"],
     askMeAbout: ["web dev", "tech", "app dev", "photography"],
     technologies: {
         backEnd: {
