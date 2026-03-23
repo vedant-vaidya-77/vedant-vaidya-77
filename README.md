@@ -32,6 +32,6 @@ Let's talk fast code and quant markets.
 
 * **Email:** [vedantvaidya76@gmail.com](mailto:vedantvaidya76@gmail.com)
 * **LinkedIn:** [Vedant Vaidya](https://www.linkedin.com/in/vedant-vaidya-714503257/)
-* **Codeforces:** [vedant_vaidya_77])(https://codeforces.com/profile/vedant_vaidya_77)
+* **Codeforces:** [vedant_vaidya_77](https://codeforces.com/profile/vedant_vaidya_77)
 
 > *"Latency is the enemy. Code accordingly."*
